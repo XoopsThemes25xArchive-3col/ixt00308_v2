@@ -1,0 +1,96 @@
+IXThemes ChangeLog
+
+== IXThemes ixt00308 ==
+
+===2009-12-12 : 2.0 ===
+
+Improved:
+- The zone for promo slides is added
+- The expanded footer zone is added
+- Loading jQuery from CMS core (for XOOPS 2.4.x) is added
+- The self-adjusted menubar is added
+
+===2009-03-09 : 1.5 ===
+
+Improved:
+- The common size of a theme is reduced. Not used logos and icons are deleted.
+- Support of not system modules is temporarily eliminated.
+
+===2009-02-17 : 1.3 ===
+
+Fixed:
+- Assign "theme_top_order" and "theme_bottom_order" to value "clr" in theme.html
+- "a:hover" html-tag dotted border removed (Firefox bug)
+
+===2008-12-29 : 1.2 ===
+
+'''Fixed'''
+* PNG24 and PNG8 view fixed for IE6 browser
+
+===2008-12-16 : 1.1 ===
+
+'''Added'''
+* Graphics files for the Italian language are added:
+
+For system blocks templates:
+------------------------
+- Language Selection (it)
+- Search (it)
+- Login (it)
+- User Menu (it)
+- Main Menu (it)
+- Waiting Contents (it)
+- Site Info (it)
+- Who's Online (it)
+- Themes (it)
+- Top Posters (it)
+- New Members (it)
+- Content Menu (it)
+
+'''Improved'''
+* Changelog and Release Notes in package included
+
+'''Fixed'''
+* Inaccuracies in definition of blocks headers
+
+
+===2008-12-14 : 1.0 ===
+
+The first release of a themes collection ixt003
+
+Some features of a themes collection
+==================================
+
+New system blocks templates:
+------------------------
+- Language Selection (en,ru,de,pt_br)
+- Search (en,ru,de,pt_br)
+- Login (en,ru,de,pt_br)
+- User Menu (en,ru,de,pt_br)
+- Main Menu (en,ru,de,pt_br)
+- Waiting Contents (en,ru,de,pt_br)
+- Site Info (en,ru,de,pt_br)
+- Who's Online (en,ru,de,pt_br)
+- Themes (en,ru,de,pt_br)
+- Top Posters (en,ru,de,pt_br)
+- New Members (en,ru,de,pt_br)
+- Content Menu (en,ru,de,pt_br)
+
+Additional support of multilanguage graphics files:
+------------------------
+- English (en)
+- Russian (ru)
+- German (de)
+- Portuguese Brazilian (pt_br)
+
+New blocks templates of modules:
+------------------------
+- ImLinks
+-- Recent imLinks (en,ru,de,pt_br)
+-- Top imLinks (en,ru,de,pt_br)
+- ImGlossary
+-- Newest Terms (en,ru,de,pt_br)
+-- Most Read Terms (en,ru,de,pt_br)
+-- Random term (en,ru,de,pt_br)
+- ImPression
+-- Spotlight (en,ru,de,pt_br)
